@@ -27,7 +27,7 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // Connect to the Mongo DB
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost/unit18Populater', { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true };
+const MONGODB_URI = process.env.MONGODB_URI || ('mongodb://localhost/unit18Populater', { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true });
 mongoose.connect(MONGODB_URI);
 // Routes
 
