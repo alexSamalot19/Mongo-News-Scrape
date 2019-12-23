@@ -44,7 +44,7 @@ Recent articles can be added with the Click Me button.
 
 - [MongoDB](https://www.mongodb.com/)
 
-- [Cheerio](hhttps://www.npmjs.com/package/cheerio)
+- [Cheerio](https://www.npmjs.com/package/cheerio)
 
 <br>
 
