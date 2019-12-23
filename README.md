@@ -31,20 +31,12 @@ Mongo-News-Scrape
 
 ## Run Instructions
 
-The user begins at:
+The looks as it is displayed below:
 
-![StartPage](public/assets/img/StartPage.png)
+![StartPage](public/img/StartPage.png)
 
-The user can fill out the **Burger Name** form,
-
-![OrderInput](public/assets/img/OrderInput.png)
-![AsOrder](public/assets/img/AsOrder.png)
-
-The burger name appears on the left side above the form until the **Devour** button is clicked
-
-![AsDevoured](public/assets/img/AsDevoured.png)
-
-This moves the selected burger to the right column on the screen designated for devoured burgers
+The user can fill out and delete comments on individual articles.
+Recent articles can be added with the Click Me button.
 
 ## This App Utilizes
 
